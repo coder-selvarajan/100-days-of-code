@@ -15,3 +15,11 @@
 **Thoughts** Went thru many tutorials about CustomPainter - The one from raywenderlich.com was really helpful in understanding custompainter better. The canvas size issue needs to be fixed.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 3: Aug 9, Sunday
+
+**Today's Progress**: Built the game-board with all squares and crosses. Bit of refactoring.
+
+**Thoughts** Happy that I was able to calculate all the positions and made up the game-board
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
