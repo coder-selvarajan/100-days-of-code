@@ -23,3 +23,11 @@
 **Thoughts** Happy that I was able to calculate all the positions and made up the game-board
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 4: Aug 10, Monday
+
+**Today's Progress**: Adding pawn stage circles and controlling canvas sizing
+
+**Thoughts** Drawing cricles were easy as other squares... and I was trying to control the size of the canvas in many ways but could nt achieve it. However accidently I have changed the parent widget to Stack and the sizing started working automatically ;)
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
