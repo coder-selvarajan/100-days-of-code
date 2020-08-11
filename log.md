@@ -31,3 +31,11 @@
 **Thoughts** Drawing cricles were easy as other squares... and I was trying to control the size of the canvas in many ways but could nt achieve it. However accidently I have changed the parent widget to Stack and the sizing started working automatically ;)
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 5: Aug 11, Monday
+
+**Today's Progress**: Trying to add Pawn images on the game-board via canvas.drawImage method.
+
+**Thoughts** I am still struggling to paint the image on the canvas. I could not find any clear online solution on this topic.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
