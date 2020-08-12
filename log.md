@@ -32,10 +32,18 @@
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
 
-### Day 5: Aug 11, Monday
+### Day 5: Aug 11, Tuesday
 
 **Today's Progress**: Trying to add Pawn images on the game-board via canvas.drawImage method.
 
 **Thoughts** I am still struggling to paint the image on the canvas. I could not find any clear online solution on this topic.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 6: Aug 12, Wednesday
+
+**Today's Progress**: Finally drawn the pawn images on the canvas. Did bit of image tweaks in AdobeXD.
+
+**Thoughts** After hours of R&D with image draw finally found a solution which loads the image in async way in the main.dart file itself.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
