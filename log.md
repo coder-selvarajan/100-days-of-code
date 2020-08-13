@@ -47,3 +47,11 @@
 **Thoughts** After hours of R&D with image draw finally found a solution which loads the image in async way in the main.dart file itself.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 7: Aug 13, Thursday
+
+**Today's Progress**: Refactoring and adding separate pawn class for pawns and to add interactive events
+
+**Thoughts** Need to keep pawn positions in an array and serve from main class. GestureDetector or InkWell to be used for adding tab events.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
