@@ -55,3 +55,11 @@
 **Thoughts** Need to keep pawn positions in an array and serve from main class. GestureDetector or InkWell to be used for adding tab events.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 8: Aug 14, Friday
+
+**Today's Progress**: Refactoring color & position constants. Adding pawns via new Pawn class.
+
+**Thoughts** Spend sometime learing Animations in Flutter. Need to check how to make image based animations.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
