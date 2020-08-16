@@ -63,3 +63,11 @@
 **Thoughts** Spend sometime learing Animations in Flutter. Need to check how to make image based animations.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 9: Aug 16, Sunday
+
+**Today's Progress**: Trying out different approach for creating pawns - using image widgets with animation by AnimatedPositioned
+
+**Thoughts** Need to learn about Animation in full swing. Currently i am unclear about various animation types & facilities
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
