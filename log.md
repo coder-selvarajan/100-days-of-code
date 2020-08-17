@@ -71,3 +71,9 @@
 **Thoughts** Need to learn about Animation in full swing. Currently i am unclear about various animation types & facilities
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 10: Aug 17, Monday
+
+**Today's Progress**: Going thru Flutter animation tutorials in flutter.dev and in Udemy course. Working out codelab and sample projects
+
+**Thoughts** Still lot of concepts in animation to be covered.
