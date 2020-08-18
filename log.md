@@ -77,3 +77,9 @@
 **Today's Progress**: Going thru Flutter animation tutorials in flutter.dev and in Udemy course. Working out codelab and sample projects
 
 **Thoughts** Still lot of concepts in animation to be covered.
+
+### Day 11: Aug 18, Tuesday
+
+**Today's Progress**: Another day with the Udemy course by Stephen Grider and working out his sample project.
+
+**Thoughts** More to cover though.
