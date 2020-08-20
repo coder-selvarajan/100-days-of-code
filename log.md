@@ -83,3 +83,9 @@
 **Today's Progress**: Another day with the Udemy course by Stephen Grider and working out his sample project.
 
 **Thoughts** More to cover though.
+
+### Day 12: Aug 20, Thursday
+
+**Today's Progress**: Practiced udemy course project independently as a coding kata for practice in animation.
+
+**Thoughts** I wish to do more coding katas in Flutter.
