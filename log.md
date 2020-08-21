@@ -89,3 +89,9 @@
 **Today's Progress**: Practiced udemy course project independently as a coding kata for practice in animation.
 
 **Thoughts** I wish to do more coding katas in Flutter.
+
+### Day 13: Aug 21, Friday
+
+**Today's Progress**: Rearranged widgets and classes - Added pawn animation with AnimatedBuilder.
+
+**Thoughts** Currently the board paint method is called everytime the animation progress. need to optimize it.
