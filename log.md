@@ -95,3 +95,11 @@
 **Today's Progress**: Rearranged widgets and classes - Added pawn animation with AnimatedBuilder.
 
 **Thoughts** Currently the board paint method is called everytime the animation progress. need to optimize it.
+
+### Day 14: Aug 24, Monday
+
+**Today's Progress**: Initializing player tracks array and playing around with pawn movements.
+
+**Thoughts** Now there is an error in the track class. Pawn is not moving.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
