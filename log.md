@@ -103,3 +103,11 @@
 **Thoughts** Now there is an error in the track class. Pawn is not moving.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 15: Aug 27, Thursday
+
+**Today's Progress**: Applying adaptive layout for the board - refactoring player track positions - optimizing animation logic a bit.
+
+**Thoughts** So far all the animation logic is done for single pawn. I need to replicate the logic for all other pawns in optimistic approach.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
