@@ -111,3 +111,11 @@
 **Thoughts** So far all the animation logic is done for single pawn. I need to replicate the logic for all other pawns in optimistic approach.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 16: Aug 28, Friday
+
+**Today's Progress**: Refactoring Pawn class and adding all the pawns and positioning them properly with appropriate tracks. Controlling the animation movements with random number within 6.
+
+**Thoughts** Now that the basic board and pawn setup is ready with their movements. Next step is to manifest out the dice functionality.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
