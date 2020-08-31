@@ -119,3 +119,11 @@
 **Thoughts** Now that the basic board and pawn setup is ready with their movements. Next step is to manifest out the dice functionality.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 17: Aug 31, Monday
+
+**Today's Progress**: Created player stages and adding dice to it with rolling facility. Also did a bit of refactoring work.
+
+**Thoughts** Next I need to link the dice rolling with the pawn movement.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
