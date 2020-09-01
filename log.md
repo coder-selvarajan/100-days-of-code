@@ -127,3 +127,11 @@
 **Thoughts** Next I need to link the dice rolling with the pawn movement.
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 18: Sep 1, Tuesday
+
+**Today's Progress**: Moving pawns based on dice score for the player. Adding small circles to the mountains. 
+
+**Thoughts** Need to list down all little animations required for the app. 
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
