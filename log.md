@@ -135,3 +135,11 @@
 **Thoughts** Need to list down all little animations required for the app. 
 
 **Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
+
+### Day 19: Sep 2, Wednesday
+
+**Today's Progress**: Experimenting text painting with custom painter with canvas rotation - Achieved the desired effect with simple RotatedBox widget.
+
+**Thoughts** Next I need to concentrate on positioning of multiple pawns within single spot.
+
+**Link(s) to work :** [Thayam App](https://github.com/coder-selvarajan/thayam_flutter)
